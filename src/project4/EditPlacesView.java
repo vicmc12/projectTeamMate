@@ -17,6 +17,7 @@ import javax.swing.JTextField;
  * 
  * @version 1.0
  */
+
 public class EditPlacesView extends JFrame implements ActionListener {
 
   private JTextField textFieldName = new JTextField();;
